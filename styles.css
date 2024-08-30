@@ -1,0 +1,1936 @@
+.landing-page {
+    background-color: #f1f1f1;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+  }
+  
+  .landing-page .div {
+    background-color: #f1f1f1;
+    overflow: hidden;
+    width: 1440px;
+    height: 4908px;
+    position: relative;
+  }
+  
+  .landing-page .container {
+    position: absolute;
+    width: 1440px;
+    height: 388px;
+    top: 2104px;
+    left: 0;
+    background-color: #ffffff;
+  }
+  
+  .landing-page .trusted-by {
+    position: absolute;
+    top: 95px;
+    left: 646px;
+    font-family: "Lexend-Regular", Helvetica;
+    font-weight: 400;
+    color: #171a1f;
+    font-size: 32px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: 78px;
+    white-space: nowrap;
+  }
+  
+  .landing-page .occaecat-est-ipsum {
+    position: absolute;
+    width: 707px;
+    top: 173px;
+    left: 364px;
+    font-family: "Manrope-Regular", Helvetica;
+    font-weight: 400;
+    color: #9095a1;
+    font-size: 20px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: 30px;
+  }
+  
+  .landing-page .container-2 {
+    position: absolute;
+    width: 1440px;
+    height: 512px;
+    top: 1592px;
+    left: 0;
+    background-color: #e8d3b4;
+  }
+  
+  .landing-page .overlap-group {
+    position: absolute;
+    width: 300px;
+    height: 320px;
+    top: 96px;
+    left: 132px;
+  }
+  
+  .landing-page .rectangle {
+    position: absolute;
+    width: 280px;
+    height: 300px;
+    top: 20px;
+    left: 20px;
+    background-color: #eaecf0;
+    border-radius: 8px;
+  }
+  
+  .landing-page .image {
+    position: absolute;
+    width: 280px;
+    height: 300px;
+    top: 0;
+    left: 0;
+  }
+  
+  .landing-page .aliqua-cupidatat-id {
+    position: absolute;
+    width: 776px;
+    top: 199px;
+    left: 532px;
+    font-family: "Manrope-Regular", Helvetica;
+    font-weight: 400;
+    color: #171a1f;
+    font-size: 20px;
+    letter-spacing: 0;
+    line-height: 30px;
+  }
+  
+  .landing-page .text-wrapper {
+    position: absolute;
+    top: 313px;
+    left: 532px;
+    font-family: "Manrope-Regular", Helvetica;
+    font-weight: 400;
+    color: #171a1f;
+    font-size: 20px;
+    letter-spacing: 0;
+    line-height: 30px;
+    white-space: nowrap;
+  }
+  
+  .landing-page .text-wrapper-2 {
+    position: absolute;
+    top: 343px;
+    left: 532px;
+    font-family: "Manrope-Regular", Helvetica;
+    font-weight: 400;
+    color: #424856;
+    font-size: 18px;
+    letter-spacing: 0;
+    line-height: 28px;
+    white-space: nowrap;
+  }
+  
+  .landing-page .rating {
+    position: absolute;
+    width: 180px;
+    height: 36px;
+    top: 140px;
+    left: 532px;
+  }
+  
+  .landing-page .button {
+    all: unset;
+    box-sizing: border-box;
+    position: absolute;
+    width: 36px;
+    height: 36px;
+    top: 325px;
+    left: 1272px;
+    border-radius: 18px;
+    overflow: hidden;
+  }
+  
+  .landing-page .text {
+    top: 6px;
+    left: 26px;
+    color: #424856;
+    font-size: 14px;
+    line-height: 22px;
+    position: absolute;
+    font-family: "Manrope-Regular", Helvetica;
+    font-weight: 400;
+    letter-spacing: 0;
+    white-space: nowrap;
+  }
+  
+  .landing-page .img {
+    position: absolute;
+    width: 16px;
+    height: 16px;
+    top: 10px;
+    left: 10px;
+  }
+  
+  .landing-page .button-2 {
+    all: unset;
+    box-sizing: border-box;
+    position: absolute;
+    width: 36px;
+    height: 36px;
+    top: 325px;
+    left: 1140px;
+    border-radius: 18px;
+    overflow: hidden;
+    opacity: 0.4;
+  }
+  
+  .landing-page .text-2 {
+    position: absolute;
+    top: 6px;
+    left: 26px;
+    font-family: "Manrope-Regular", Helvetica;
+    font-weight: 400;
+    color: #9095a1;
+    font-size: 14px;
+    letter-spacing: 0;
+    line-height: 22px;
+    white-space: nowrap;
+  }
+  
+  .landing-page .rectangle-2 {
+    position: absolute;
+    width: 20px;
+    height: 10px;
+    top: 338px;
+    left: 1182px;
+    background-color: #6d31ed;
+    border-radius: 5px;
+  }
+  
+  .landing-page .rectangle-3 {
+    position: absolute;
+    width: 10px;
+    height: 10px;
+    top: 338px;
+    left: 1208px;
+    background-color: #dee1e6;
+    border-radius: 5px;
+  }
+  
+  .landing-page .rectangle-4 {
+    position: absolute;
+    width: 10px;
+    height: 10px;
+    top: 338px;
+    left: 1224px;
+    background-color: #dee1e6;
+    border-radius: 5px;
+  }
+  
+  .landing-page .rectangle-5 {
+    position: absolute;
+    width: 10px;
+    height: 10px;
+    top: 338px;
+    left: 1240px;
+    background-color: #dee1e6;
+    border-radius: 5px;
+  }
+  
+  .landing-page .rectangle-6 {
+    position: absolute;
+    width: 10px;
+    height: 10px;
+    top: 338px;
+    left: 1256px;
+    background-color: #dee1e6;
+    border-radius: 5px;
+  }
+  
+  .landing-page .overlap {
+    position: absolute;
+    width: 1440px;
+    height: 1609px;
+    top: -19px;
+    left: 0;
+  }
+  
+  .landing-page .overlap-2 {
+    position: absolute;
+    width: 1440px;
+    height: 1609px;
+    top: 0;
+    left: 0;
+  }
+  
+  .landing-page .group {
+    position: absolute;
+    width: 1440px;
+    height: 822px;
+    top: 787px;
+    left: 0;
+    background-color: #08092c;
+  }
+  
+  .landing-page .container-3 {
+    position: absolute;
+    width: 376px;
+    height: 464px;
+    top: 264px;
+    left: 132px;
+    background-color: #e0e0e0;
+    border-radius: 6px;
+    overflow: hidden;
+    box-shadow: 0px 0px 1px #171a1f12, 0px 0px 2px #171a1f1f;
+  }
+  
+  .landing-page .p {
+    position: absolute;
+    width: 328px;
+    top: 319px;
+    left: 24px;
+    font-family: "Manrope-Regular", Helvetica;
+    font-weight: 400;
+    color: #9095a1;
+    font-size: 18px;
+    letter-spacing: 0;
+    line-height: 28px;
+  }
+  
+  .landing-page .div-wrapper {
+    all: unset;
+    box-sizing: border-box;
+    position: absolute;
+    width: 115px;
+    height: 44px;
+    top: 396px;
+    left: 24px;
+    border-radius: 4px;
+    overflow: hidden;
+    border: 1px solid;
+    border-color: #6d31ed;
+  }
+  
+  .landing-page .text-wrapper-3 {
+    position: absolute;
+    top: 8px;
+    left: 16px;
+    font-family: "Manrope-Regular", Helvetica;
+    font-weight: 400;
+    color: #6d31ed;
+    font-size: 16px;
+    letter-spacing: 0;
+    line-height: 26px;
+    white-space: nowrap;
+  }
+  
+  .landing-page .feature {
+    position: absolute;
+    top: 279px;
+    left: 24px;
+    font-family: "Lexend-Regular", Helvetica;
+    font-weight: 400;
+    color: #171a1f;
+    font-size: 24px;
+    letter-spacing: 0;
+    line-height: 36px;
+    white-space: nowrap;
+  }
+  
+  .landing-page .image-2 {
+    position: absolute;
+    width: 376px;
+    height: 256px;
+    top: 0;
+    left: 0;
+  }
+  
+  .landing-page .container-4 {
+    position: absolute;
+    width: 376px;
+    height: 464px;
+    top: 264px;
+    left: 532px;
+    background-color: #e0e0e0;
+    border-radius: 6px;
+    overflow: hidden;
+    box-shadow: 0px 0px 1px #171a1f12, 0px 0px 2px #171a1f1f;
+  }
+  
+  .landing-page .container-5 {
+    position: absolute;
+    width: 376px;
+    height: 464px;
+    top: 264px;
+    left: 932px;
+    background-color: #e0e0e0;
+    border-radius: 6px;
+    overflow: hidden;
+    box-shadow: 0px 0px 1px #171a1f12, 0px 0px 2px #171a1f1f;
+  }
+  
+  .landing-page .text-wrapper-4 {
+    position: absolute;
+    top: 903px;
+    left: 440px;
+    font-family: "Lexend-Regular", Helvetica;
+    font-weight: 400;
+    color: #d3c1fa;
+    font-size: 64.2px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: 91px;
+    white-space: nowrap;
+  }
+  
+  .landing-page .frame {
+    position: absolute;
+    width: 1440px;
+    height: 744px;
+    top: 86px;
+    left: 0;
+    background: linear-gradient(180deg, rgb(26, 6, 70) 0%, rgb(57.15, 34.45, 107.1) 100%);
+  }
+  
+  .landing-page .scholarship {
+    width: 623px;
+    height: 399px;
+    top: 158px;
+    left: 720px;
+    position: absolute;
+    object-fit: cover;
+  }
+  
+  .landing-page .button-3 {
+    all: unset;
+    box-sizing: border-box;
+    position: absolute;
+    width: 141px;
+    height: 52px;
+    top: 544px;
+    left: 132px;
+    background-color: #d3c1fa;
+    border-radius: 4px;
+    overflow: hidden;
+  }
+  
+  .landing-page .text-wrapper-5 {
+    position: absolute;
+    top: 11px;
+    left: 22px;
+    font-family: "Manrope-Regular", Helvetica;
+    font-weight: 400;
+    color: #08092c;
+    font-size: 18px;
+    letter-spacing: 0;
+    line-height: 28px;
+    white-space: nowrap;
+  }
+  
+  .landing-page .button-4 {
+    all: unset;
+    box-sizing: border-box;
+    position: absolute;
+    width: 136px;
+    height: 52px;
+    top: 544px;
+    left: 285px;
+    border-radius: 4px;
+    overflow: hidden;
+    border: 1px solid;
+    border-color: #000000;
+  }
+  
+  .landing-page .text-wrapper-6 {
+    position: absolute;
+    top: 11px;
+    left: 22px;
+    font-family: "Manrope-Regular", Helvetica;
+    font-weight: 400;
+    color: #d3c1fa;
+    font-size: 18px;
+    letter-spacing: 0;
+    line-height: 28px;
+    white-space: nowrap;
+  }
+  
+  .landing-page .website-heading-goes {
+    position: absolute;
+    width: 520px;
+    top: 273px;
+    left: 132px;
+    font-family: "Outfit-Regular", Helvetica;
+    font-weight: 400;
+    color: #d3c1fa;
+    font-size: 64px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .landing-page .text-wrapper-7 {
+    position: absolute;
+    width: 520px;
+    top: 429px;
+    left: 132px;
+    font-family: "Manrope-Regular", Helvetica;
+    font-weight: 400;
+    color: #9095a1;
+    font-size: 20px;
+    letter-spacing: 0;
+    line-height: 30px;
+  }
+  
+  .landing-page .group-2 {
+    position: absolute;
+    width: 186px;
+    height: 103px;
+    top: 0;
+    left: 19px;
+  }
+  
+  .landing-page .scholarship-2 {
+    position: absolute;
+    width: 35px;
+    height: 35px;
+    top: 34px;
+    left: 0;
+    object-fit: cover;
+  }
+  
+  .landing-page .text-wrapper-8 {
+    position: absolute;
+    top: 0;
+    left: 52px;
+    font-family: "Lobster-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 24px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: 103px;
+    white-space: nowrap;
+  }
+  
+  .landing-page .header-menu {
+    position: absolute;
+    width: 318px;
+    height: 48px;
+    top: 27px;
+    left: 555px;
+  }
+  
+  .landing-page .frame-2 {
+    position: absolute;
+    width: 114px;
+    height: 48px;
+    top: 0;
+    left: 0;
+    border-radius: 4px;
+    overflow: hidden;
+  }
+  
+  .landing-page .text-wrapper-9 {
+    position: absolute;
+    top: 12px;
+    left: 12px;
+    font-family: "Manrope-Regular", Helvetica;
+    font-weight: 400;
+    color: #565d6d;
+    font-size: 14px;
+    letter-spacing: 0;
+    line-height: 22px;
+    white-space: nowrap;
+  }
+  
+  .landing-page .chevron-down-large {
+    position: absolute;
+    width: 24px;
+    height: 24px;
+    top: 12px;
+    left: 78px;
+  }
+  
+  .landing-page .frame-3 {
+    position: absolute;
+    width: 69px;
+    height: 48px;
+    top: 0;
+    left: 114px;
+    border-radius: 4px;
+    overflow: hidden;
+  }
+  
+  .landing-page .frame-4 {
+    position: absolute;
+    width: 82px;
+    height: 48px;
+    top: 0;
+    left: 183px;
+    border-radius: 4px;
+    overflow: hidden;
+  }
+  
+  .landing-page .frame-5 {
+    position: absolute;
+    width: 53px;
+    height: 48px;
+    top: 0;
+    left: 265px;
+    border-radius: 4px;
+    overflow: hidden;
+  }
+  
+  .landing-page .text-wrapper-10 {
+    top: 39px;
+    left: 1352px;
+    color: #000000;
+    position: absolute;
+    font-family: "Manrope-Regular", Helvetica;
+    font-weight: 400;
+    font-size: 14px;
+    letter-spacing: 0;
+    line-height: 22px;
+    white-space: nowrap;
+  }
+  
+  .landing-page .button-5 {
+    all: unset;
+    box-sizing: border-box;
+    position: absolute;
+    width: 68px;
+    height: 36px;
+    top: 33px;
+    left: 1256px;
+    border-radius: 4px;
+    overflow: hidden;
+  }
+  
+  .landing-page .text-wrapper-11 {
+    top: 6px;
+    left: 12px;
+    color: #6d31ed;
+    position: absolute;
+    font-family: "Manrope-Regular", Helvetica;
+    font-weight: 400;
+    font-size: 14px;
+    letter-spacing: 0;
+    line-height: 22px;
+    white-space: nowrap;
+  }
+  
+  .landing-page .container-6 {
+    position: absolute;
+    width: 1440px;
+    height: 839px;
+    top: 2495px;
+    left: 1px;
+    background-color: #1e1e1e;
+  }
+  
+  .landing-page .text-wrapper-12 {
+    position: absolute;
+    top: 93px;
+    left: 543px;
+    font-family: "Lexend-Regular", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 72.7px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: 103px;
+    white-space: nowrap;
+  }
+  
+  .landing-page .container-7 {
+    position: absolute;
+    width: 244px;
+    height: 372px;
+    top: 264px;
+    left: 862px;
+    background-color: #ffffff;
+    border-radius: 6px;
+    overflow: hidden;
+    box-shadow: 0px 0px 1px #171a1f12, 0px 0px 2px #171a1f1f;
+  }
+  
+  .landing-page .overlap-group-2 {
+    position: absolute;
+    width: 228px;
+    height: 45px;
+    top: 270px;
+    left: 16px;
+  }
+  
+  .landing-page .professional-title {
+    position: absolute;
+    width: 196px;
+    top: 0;
+    left: 18px;
+    font-family: "Manrope-Regular", Helvetica;
+    font-weight: 400;
+    color: #6d31ed;
+    font-size: 16px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: 26px;
+  }
+  
+  .landing-page .commodo-qui-nulla {
+    position: absolute;
+    width: 228px;
+    top: 19px;
+    left: 0;
+    font-family: "Manrope-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 16px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: 26px;
+  }
+  
+  .landing-page .full-name {
+    top: 238px;
+    left: 32px;
+    position: absolute;
+    width: 196px;
+    font-family: "Lexend-Regular", Helvetica;
+    font-weight: 400;
+    color: #171a1f;
+    font-size: 18px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: 28px;
+  }
+  
+  .landing-page .logo-linkedin {
+    top: 336px;
+    left: 134px;
+    position: absolute;
+    width: 24px;
+    height: 24px;
+  }
+  
+  .landing-page .logo-twitter {
+    top: 336px;
+    left: 78px;
+    position: absolute;
+    width: 24px;
+    height: 24px;
+  }
+  
+  .landing-page .img-2 {
+    position: absolute;
+    width: 244px;
+    height: 216px;
+    top: 0;
+    left: 0;
+    object-fit: cover;
+  }
+  
+  .landing-page .container-8 {
+    position: absolute;
+    width: 244px;
+    height: 372px;
+    top: 264px;
+    left: 333px;
+    background-color: #ffffff;
+    border-radius: 6px;
+    overflow: hidden;
+    box-shadow: 0px 0px 1px #171a1f12, 0px 0px 2px #171a1f1f;
+  }
+  
+  .landing-page .professional-title-2 {
+    top: 268px;
+    left: 32px;
+    position: absolute;
+    width: 196px;
+    font-family: "Manrope-Regular", Helvetica;
+    font-weight: 400;
+    color: #6d31ed;
+    font-size: 16px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: 26px;
+  }
+  
+  .landing-page .full-name-2 {
+    top: 240px;
+    left: 32px;
+    position: absolute;
+    width: 196px;
+    font-family: "Lexend-Regular", Helvetica;
+    font-weight: 400;
+    color: #171a1f;
+    font-size: 18px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: 28px;
+  }
+  
+  .landing-page .logo-linkedin-2 {
+    position: absolute;
+    width: 24px;
+    height: 24px;
+    top: 337px;
+    left: 132px;
+  }
+  
+  .landing-page .logo-twitter-2 {
+    top: 333px;
+    left: 87px;
+    position: absolute;
+    width: 24px;
+    height: 24px;
+  }
+  
+  .landing-page .commodo-qui-nulla-2 {
+    top: 294px;
+    left: 21px;
+    position: absolute;
+    width: 228px;
+    font-family: "Manrope-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 16px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: 26px;
+  }
+  
+  .landing-page .whatsapp-image {
+    position: absolute;
+    width: 244px;
+    height: 208px;
+    top: 0;
+    left: 0;
+    object-fit: cover;
+  }
+  
+  .landing-page .container-9 {
+    position: absolute;
+    width: 244px;
+    height: 372px;
+    top: 264px;
+    left: 597px;
+    background-color: #ffffff;
+    border-radius: 6px;
+    overflow: hidden;
+    box-shadow: 0px 0px 1px #171a1f12, 0px 0px 2px #171a1f1f;
+  }
+  
+  .landing-page .overlap-3 {
+    position: absolute;
+    width: 228px;
+    height: 48px;
+    top: 267px;
+    left: 8px;
+  }
+  
+  .landing-page .professional-title-3 {
+    top: 0;
+    left: 16px;
+    position: absolute;
+    width: 196px;
+    font-family: "Manrope-Regular", Helvetica;
+    font-weight: 400;
+    color: #6d31ed;
+    font-size: 16px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: 26px;
+  }
+  
+  .landing-page .commodo-qui-nulla-3 {
+    top: 22px;
+    left: 0;
+    position: absolute;
+    width: 228px;
+    font-family: "Manrope-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 16px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: 26px;
+  }
+  
+  .landing-page .full-name-3 {
+    top: 235px;
+    left: 24px;
+    position: absolute;
+    width: 196px;
+    font-family: "Lexend-Regular", Helvetica;
+    font-weight: 400;
+    color: #171a1f;
+    font-size: 18px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: 28px;
+  }
+  
+  .landing-page .logo-linkedin-3 {
+    top: 336px;
+    left: 130px;
+    position: absolute;
+    width: 24px;
+    height: 24px;
+  }
+  
+  .landing-page .logo-twitter-3 {
+    top: 340px;
+    left: 84px;
+    position: absolute;
+    width: 24px;
+    height: 24px;
+  }
+  
+  .landing-page .sampurna {
+    position: absolute;
+    width: 244px;
+    height: 210px;
+    top: 0;
+    left: 0;
+    object-fit: cover;
+  }
+  
+  .landing-page .overlap-4 {
+    position: absolute;
+    width: 244px;
+    height: 380px;
+    top: 256px;
+    left: 68px;
+  }
+  
+  .landing-page .container-10 {
+    position: absolute;
+    width: 244px;
+    height: 372px;
+    top: 8px;
+    left: 0;
+    background-color: #ffffff;
+    border-radius: 6px;
+    overflow: hidden;
+    box-shadow: 0px 0px 1px #171a1f12, 0px 0px 2px #171a1f1f;
+  }
+  
+  .landing-page .overlap-5 {
+    position: absolute;
+    width: 196px;
+    height: 51px;
+    top: 268px;
+    left: 22px;
+  }
+  
+  .landing-page .professional-title-4 {
+    top: 0;
+    left: 0;
+    position: absolute;
+    width: 196px;
+    font-family: "Manrope-Regular", Helvetica;
+    font-weight: 400;
+    color: #6d31ed;
+    font-size: 16px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: 26px;
+  }
+  
+  .landing-page .text-wrapper-13 {
+    position: absolute;
+    top: 25px;
+    left: 38px;
+    font-family: "Manrope-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 16px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: 26px;
+    white-space: nowrap;
+  }
+  
+  .landing-page .full-name-4 {
+    top: 240px;
+    left: 26px;
+    position: absolute;
+    width: 196px;
+    font-family: "Lexend-Regular", Helvetica;
+    font-weight: 400;
+    color: #171a1f;
+    font-size: 18px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: 28px;
+  }
+  
+  .landing-page .logo-linkedin-4 {
+    top: 332px;
+    left: 134px;
+    position: absolute;
+    width: 24px;
+    height: 24px;
+  }
+  
+  .landing-page .logo-twitter-4 {
+    top: 332px;
+    left: 81px;
+    position: absolute;
+    width: 24px;
+    height: 24px;
+  }
+  
+  .landing-page .image-3 {
+    position: absolute;
+    width: 244px;
+    height: 192px;
+    top: 0;
+    left: 0;
+  }
+  
+  .landing-page .overlap-6 {
+    position: absolute;
+    width: 246px;
+    height: 372px;
+    top: 264px;
+    left: 1126px;
+  }
+  
+  .landing-page .container-11 {
+    position: absolute;
+    width: 244px;
+    height: 372px;
+    top: 0;
+    left: 1px;
+    background-color: #ffffff;
+    border-radius: 6px;
+    overflow: hidden;
+    box-shadow: 0px 0px 1px #171a1f12, 0px 0px 2px #171a1f1f;
+  }
+  
+  .landing-page .professional-title-5 {
+    top: 262px;
+    left: 24px;
+    position: absolute;
+    width: 196px;
+    font-family: "Manrope-Regular", Helvetica;
+    font-weight: 400;
+    color: #6d31ed;
+    font-size: 16px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: 26px;
+  }
+  
+  .landing-page .full-name-5 {
+    top: 234px;
+    left: 24px;
+    position: absolute;
+    width: 196px;
+    font-family: "Lexend-Regular", Helvetica;
+    font-weight: 400;
+    color: #171a1f;
+    font-size: 18px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: 28px;
+  }
+  
+  .landing-page .logo-twitter-5 {
+    position: absolute;
+    width: 24px;
+    height: 24px;
+    top: 333px;
+    left: 84px;
+  }
+  
+  .landing-page .commodo-qui-nulla-4 {
+    top: 288px;
+    left: 8px;
+    position: absolute;
+    width: 228px;
+    font-family: "Manrope-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 16px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: 26px;
+  }
+  
+  .landing-page .samim {
+    position: absolute;
+    width: 246px;
+    height: 218px;
+    top: 1px;
+    left: 0;
+    object-fit: cover;
+  }
+  
+  .landing-page .button-6 {
+    all: unset;
+    box-sizing: border-box;
+    position: absolute;
+    width: 36px;
+    height: 36px;
+    top: 707px;
+    left: 768px;
+    border-radius: 18px;
+    overflow: hidden;
+  }
+  
+  .landing-page .button-7 {
+    all: unset;
+    box-sizing: border-box;
+    position: absolute;
+    width: 36px;
+    height: 36px;
+    top: 707px;
+    left: 636px;
+    border-radius: 18px;
+    overflow: hidden;
+    opacity: 0.4;
+  }
+  
+  .landing-page .rectangle-7 {
+    position: absolute;
+    width: 20px;
+    height: 10px;
+    top: 720px;
+    left: 678px;
+    background-color: #6d31ed;
+    border-radius: 5px;
+  }
+  
+  .landing-page .rectangle-8 {
+    position: absolute;
+    width: 10px;
+    height: 10px;
+    top: 720px;
+    left: 704px;
+    background-color: #dee1e6;
+    border-radius: 5px;
+  }
+  
+  .landing-page .rectangle-9 {
+    position: absolute;
+    width: 10px;
+    height: 10px;
+    top: 720px;
+    left: 720px;
+    background-color: #dee1e6;
+    border-radius: 5px;
+  }
+  
+  .landing-page .rectangle-10 {
+    position: absolute;
+    width: 10px;
+    height: 10px;
+    top: 720px;
+    left: 736px;
+    background-color: #dee1e6;
+    border-radius: 5px;
+  }
+  
+  .landing-page .rectangle-11 {
+    position: absolute;
+    width: 10px;
+    height: 10px;
+    top: 720px;
+    left: 752px;
+    background-color: #dee1e6;
+    border-radius: 5px;
+  }
+  
+  .landing-page .container-12 {
+    position: absolute;
+    width: 1440px;
+    height: 834px;
+    top: 3334px;
+    left: 0;
+    background-color: #090a2d;
+  }
+  
+  .landing-page .text-wrapper-14 {
+    top: 95px;
+    left: 641px;
+    font-family: "Lexend-Regular", Helvetica;
+    color: #dadde5;
+    font-size: 48px;
+    text-align: center;
+    line-height: 68px;
+    position: absolute;
+    font-weight: 400;
+    letter-spacing: 0;
+    white-space: nowrap;
+  }
+  
+  .landing-page .overlap-7 {
+    position: absolute;
+    width: 533px;
+    height: 77px;
+    top: 163px;
+    left: 453px;
+  }
+  
+  .landing-page .text-wrapper-15 {
+    position: absolute;
+    top: 0;
+    left: 32px;
+    font-family: "Manrope-Regular", Helvetica;
+    font-weight: 400;
+    color: #9196a3;
+    font-size: 18px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: 28px;
+    white-space: nowrap;
+  }
+  
+  .landing-page .simple-plans-for {
+    position: absolute;
+    top: 21px;
+    left: 0;
+    font-family: "Lexend-Regular", Helvetica;
+    font-weight: 400;
+    color: transparent;
+    font-size: 40px;
+    letter-spacing: 0;
+    line-height: 56px;
+    white-space: nowrap;
+  }
+  
+  .landing-page .span {
+    color: #6d31ed;
+  }
+  
+  .landing-page .text-wrapper-16 {
+    color: #dadde5;
+  }
+  
+  .landing-page .container-13 {
+    position: absolute;
+    width: 386px;
+    height: 504px;
+    top: 287px;
+    left: 320px;
+    background-color: #fafafb;
+    border-radius: 8px;
+  }
+  
+  .landing-page .give-it-a-try {
+    position: absolute;
+    top: 23px;
+    left: 104px;
+    font-family: "Lexend-Regular", Helvetica;
+    font-weight: 400;
+    color: #15abff;
+    font-size: 24px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: 36px;
+    white-space: nowrap;
+  }
+  
+  .landing-page .text-wrapper-17 {
+    position: absolute;
+    top: 209px;
+    left: 144px;
+    font-family: "Lexend-Regular", Helvetica;
+    font-weight: 400;
+    color: #171a1f;
+    font-size: 48px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: 68px;
+    white-space: nowrap;
+  }
+  
+  .landing-page .text-wrapper-18 {
+    position: absolute;
+    top: 344px;
+    left: 94px;
+    font-family: "Manrope-Regular", Helvetica;
+    font-weight: 400;
+    color: #565d6d;
+    font-size: 14px;
+    letter-spacing: 0;
+    line-height: 22px;
+    white-space: nowrap;
+  }
+  
+  .landing-page .text-wrapper-19 {
+    position: absolute;
+    top: 376px;
+    left: 94px;
+    font-family: "Manrope-Regular", Helvetica;
+    font-weight: 400;
+    color: #565d6d;
+    font-size: 14px;
+    letter-spacing: 0;
+    line-height: 22px;
+    white-space: nowrap;
+  }
+  
+  .landing-page .c-check {
+    top: 312px;
+    position: absolute;
+    width: 24px;
+    height: 24px;
+    left: 64px;
+  }
+  
+  .landing-page .text-wrapper-20 {
+    position: absolute;
+    top: 312px;
+    left: 94px;
+    font-family: "Manrope-Regular", Helvetica;
+    font-weight: 400;
+    color: #171a1f;
+    font-size: 14px;
+    letter-spacing: 0;
+    line-height: 22px;
+    white-space: nowrap;
+  }
+  
+  .landing-page .text-wrapper-21 {
+    position: absolute;
+    top: 277px;
+    left: 66px;
+    font-family: "Manrope-Regular", Helvetica;
+    font-weight: 400;
+    color: #6d31ed;
+    font-size: 14px;
+    letter-spacing: 0;
+    line-height: 22px;
+    white-space: nowrap;
+  }
+  
+  .landing-page .img-3 {
+    top: 344px;
+    position: absolute;
+    width: 24px;
+    height: 24px;
+    left: 64px;
+  }
+  
+  .landing-page .button-8 {
+    all: unset;
+    box-sizing: border-box;
+    position: absolute;
+    width: 338px;
+    height: 52px;
+    top: 428px;
+    left: 24px;
+    border-radius: 8px;
+    overflow: hidden;
+    border: 1px solid;
+    border-color: #6d31ed;
+  }
+  
+  .landing-page .text-wrapper-22 {
+    position: absolute;
+    top: 11px;
+    left: 121px;
+    font-family: "Manrope-Regular", Helvetica;
+    font-weight: 400;
+    color: #6d31ed;
+    font-size: 18px;
+    letter-spacing: 0;
+    line-height: 28px;
+    white-space: nowrap;
+  }
+  
+  .landing-page .img-4 {
+    top: 376px;
+    position: absolute;
+    width: 24px;
+    height: 24px;
+    left: 64px;
+  }
+  
+  .landing-page .image-4 {
+    position: absolute;
+    width: 115px;
+    height: 94px;
+    top: 88px;
+    left: 136px;
+  }
+  
+  .landing-page .container-14 {
+    position: absolute;
+    width: 386px;
+    height: 504px;
+    top: 287px;
+    left: 734px;
+    background-color: #f5f1fe;
+    border-radius: 8px;
+    border: 2px solid;
+    border-color: #6d31ed;
+  }
+  
+  .landing-page .go-limitless {
+    position: absolute;
+    top: 22px;
+    left: 101px;
+    font-family: "Lexend-Regular", Helvetica;
+    font-weight: 400;
+    color: #6d31ed;
+    font-size: 24px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: 36px;
+    white-space: nowrap;
+  }
+  
+  .landing-page .text-wrapper-23 {
+    position: absolute;
+    top: 202px;
+    left: 216px;
+    font-family: "Lexend-Regular", Helvetica;
+    font-weight: 400;
+    color: #171a1f;
+    font-size: 48px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: 68px;
+    white-space: nowrap;
+  }
+  
+  .landing-page .text-wrapper-24 {
+    position: absolute;
+    top: 343px;
+    left: 94px;
+    font-family: "Manrope-Regular", Helvetica;
+    font-weight: 400;
+    color: #171a1f;
+    font-size: 14px;
+    letter-spacing: 0;
+    line-height: 22px;
+    white-space: nowrap;
+  }
+  
+  .landing-page .text-wrapper-25 {
+    position: absolute;
+    top: 375px;
+    left: 94px;
+    font-family: "Manrope-Regular", Helvetica;
+    font-weight: 400;
+    color: #171a1f;
+    font-size: 14px;
+    letter-spacing: 0;
+    line-height: 22px;
+    white-space: nowrap;
+  }
+  
+  .landing-page .text-wrapper-26 {
+    position: absolute;
+    top: 311px;
+    left: 94px;
+    font-family: "Manrope-Regular", Helvetica;
+    font-weight: 400;
+    color: #171a1f;
+    font-size: 14px;
+    letter-spacing: 0;
+    line-height: 22px;
+    white-space: nowrap;
+  }
+  
+  .landing-page .text-wrapper-27 {
+    position: absolute;
+    top: 276px;
+    left: 66px;
+    font-family: "Manrope-Regular", Helvetica;
+    font-weight: 400;
+    color: #6d31ed;
+    font-size: 14px;
+    letter-spacing: 0;
+    line-height: 22px;
+    white-space: nowrap;
+  }
+  
+  .landing-page .button-9 {
+    all: unset;
+    box-sizing: border-box;
+    position: absolute;
+    width: 338px;
+    height: 52px;
+    top: 428px;
+    left: 24px;
+    background-color: #6d31ed;
+    border-radius: 8px;
+    overflow: hidden;
+  }
+  
+  .landing-page .text-wrapper-28 {
+    position: absolute;
+    top: 11px;
+    left: 121px;
+    font-family: "Manrope-Regular", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 18px;
+    letter-spacing: 0;
+    line-height: 28px;
+    white-space: nowrap;
+  }
+  
+  .landing-page .lifetime-license {
+    position: absolute;
+    top: 225px;
+    left: 64px;
+    font-family: "Manrope-Bold", Helvetica;
+    font-weight: 700;
+    color: #424856;
+    font-size: 32px;
+    letter-spacing: 0;
+    line-height: 22px;
+    white-space: nowrap;
+  }
+  
+  .landing-page .container-15 {
+    position: absolute;
+    width: 1440px;
+    height: 384px;
+    top: 4168px;
+    left: 0;
+    background-color: #6d31ed;
+    border-radius: 4px;
+    overflow: hidden;
+  }
+  
+  .landing-page .oval {
+    position: absolute;
+    width: 222px;
+    height: 213px;
+    top: 171px;
+    left: 0;
+  }
+  
+  .landing-page .get-started {
+    position: absolute;
+    width: 285px;
+    height: 36px;
+    top: 92px;
+    left: 577px;
+  }
+  
+  .landing-page .qui-ut-exercitation {
+    position: absolute;
+    width: 507px;
+    height: 74px;
+    top: 160px;
+    left: 467px;
+  }
+  
+  .landing-page .button-10 {
+    position: absolute;
+    width: 132px;
+    height: 52px;
+    top: 256px;
+    left: 654px;
+  }
+  
+  .landing-page .image-5 {
+    position: absolute;
+    width: 177px;
+    height: 106px;
+    top: 278px;
+    left: 1179px;
+  }
+  
+  .landing-page .container-16 {
+    position: absolute;
+    width: 1440px;
+    height: 356px;
+    top: 4552px;
+    left: 0;
+    background-color: #1a0646;
+  }
+  
+  .landing-page .logo-facebook {
+    position: absolute;
+    width: 24px;
+    height: 24px;
+    top: 310px;
+    left: 1204px;
+  }
+  
+  .landing-page .logo-twitter-6 {
+    top: 310px;
+    left: 1164px;
+    position: absolute;
+    width: 24px;
+    height: 24px;
+  }
+  
+  .landing-page .textbox {
+    width: 129px;
+    top: 303px;
+    left: 131px;
+    border-radius: 4px;
+    border-color: #6f7787;
+    position: absolute;
+    height: 37px;
+    border: 1px solid;
+  }
+  
+  .landing-page .text-wrapper-29 {
+    position: absolute;
+    top: 6px;
+    left: 12px;
+    font-family: "Manrope-Regular", Helvetica;
+    font-weight: 400;
+    color: #a8adb7;
+    font-size: 14px;
+    letter-spacing: 0;
+    line-height: 22px;
+    white-space: nowrap;
+  }
+  
+  .landing-page .chevron-down-large-2 {
+    position: absolute;
+    width: 16px;
+    height: 16px;
+    top: 10px;
+    left: 100px;
+  }
+  
+  .landing-page .text-wrapper-30 {
+    position: absolute;
+    top: 95px;
+    left: 444px;
+    font-family: "Lexend-Regular", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 20px;
+    letter-spacing: 0;
+    line-height: 30px;
+    white-space: nowrap;
+  }
+  
+  .landing-page .text-wrapper-31 {
+    position: absolute;
+    top: 95px;
+    left: 604px;
+    font-family: "Lexend-Regular", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 20px;
+    letter-spacing: 0;
+    line-height: 30px;
+    white-space: nowrap;
+  }
+  
+  .landing-page .text-wrapper-32 {
+    position: absolute;
+    top: 95px;
+    left: 764px;
+    font-family: "Lexend-Regular", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 20px;
+    letter-spacing: 0;
+    line-height: 30px;
+    white-space: nowrap;
+  }
+  
+  .landing-page .text-wrapper-33 {
+    position: absolute;
+    top: 141px;
+    left: 764px;
+    font-family: "Manrope-Regular", Helvetica;
+    font-weight: 400;
+    color: #dee1e6;
+    font-size: 14px;
+    letter-spacing: 0;
+    line-height: 22px;
+    white-space: nowrap;
+  }
+  
+  .landing-page .text-wrapper-34 {
+    position: absolute;
+    top: 175px;
+    left: 764px;
+    font-family: "Manrope-Regular", Helvetica;
+    font-weight: 400;
+    color: #dee1e6;
+    font-size: 14px;
+    letter-spacing: 0;
+    line-height: 22px;
+    white-space: nowrap;
+  }
+  
+  .landing-page .text-wrapper-35 {
+    top: 175px;
+    left: 444px;
+    font-family: "Manrope-Regular", Helvetica;
+    color: #dee1e6;
+    font-size: 14px;
+    line-height: 22px;
+    position: absolute;
+    font-weight: 400;
+    letter-spacing: 0;
+    white-space: nowrap;
+  }
+  
+  .landing-page .text-wrapper-36 {
+    position: absolute;
+    top: 141px;
+    left: 444px;
+    font-family: "Manrope-Regular", Helvetica;
+    font-weight: 400;
+    color: #dee1e6;
+    font-size: 14px;
+    letter-spacing: 0;
+    line-height: 22px;
+    white-space: nowrap;
+  }
+  
+  .landing-page .text-wrapper-37 {
+    position: absolute;
+    top: 141px;
+    left: 604px;
+    font-family: "Manrope-Regular", Helvetica;
+    font-weight: 400;
+    color: #dee1e6;
+    font-size: 14px;
+    letter-spacing: 0;
+    line-height: 22px;
+    white-space: nowrap;
+  }
+  
+  .landing-page .text-wrapper-38 {
+    position: absolute;
+    top: 175px;
+    left: 604px;
+    font-family: "Manrope-Regular", Helvetica;
+    font-weight: 400;
+    color: #dee1e6;
+    font-size: 14px;
+    letter-spacing: 0;
+    line-height: 22px;
+    white-space: nowrap;
+  }
+  
+  .landing-page .text-wrapper-39 {
+    position: absolute;
+    top: 209px;
+    left: 604px;
+    font-family: "Manrope-Regular", Helvetica;
+    font-weight: 400;
+    color: #dee1e6;
+    font-size: 14px;
+    letter-spacing: 0;
+    line-height: 22px;
+    white-space: nowrap;
+  }
+  
+  .landing-page .text-wrapper-40 {
+    position: absolute;
+    top: 310px;
+    left: 823px;
+    font-family: "Manrope-Regular", Helvetica;
+    font-weight: 400;
+    color: #9095a1;
+    font-size: 14px;
+    letter-spacing: 0;
+    line-height: 22px;
+    white-space: nowrap;
+  }
+  
+  .landing-page .text-wrapper-41 {
+    position: absolute;
+    top: 312px;
+    left: 812px;
+    font-family: "Manrope-Regular", Helvetica;
+    font-weight: 400;
+    color: #9095a1;
+    font-size: 11px;
+    letter-spacing: 0;
+    line-height: 18px;
+    white-space: nowrap;
+  }
+  
+  .landing-page .text-wrapper-42 {
+    position: absolute;
+    top: 310px;
+    left: 562px;
+    font-family: "Manrope-Regular", Helvetica;
+    font-weight: 400;
+    color: #9095a1;
+    font-size: 14px;
+    letter-spacing: 0;
+    line-height: 22px;
+    white-space: nowrap;
+  }
+  
+  .landing-page .text-wrapper-43 {
+    position: absolute;
+    top: 310px;
+    left: 703px;
+    font-family: "Manrope-Regular", Helvetica;
+    font-weight: 400;
+    color: #9095a1;
+    font-size: 14px;
+    letter-spacing: 0;
+    line-height: 22px;
+    white-space: nowrap;
+  }
+  
+  .landing-page .text-wrapper-44 {
+    position: absolute;
+    top: 310px;
+    left: 767px;
+    font-family: "Manrope-Regular", Helvetica;
+    font-weight: 400;
+    color: #9095a1;
+    font-size: 14px;
+    letter-spacing: 0;
+    line-height: 22px;
+    white-space: nowrap;
+  }
+  
+  .landing-page .text-wrapper-45 {
+    top: 312px;
+    left: 756px;
+    color: #9095a1;
+    font-size: 11px;
+    line-height: 18px;
+    position: absolute;
+    font-family: "Manrope-Regular", Helvetica;
+    font-weight: 400;
+    letter-spacing: 0;
+    white-space: nowrap;
+  }
+  
+  .landing-page .text-wrapper-46 {
+    top: 312px;
+    left: 692px;
+    color: #9095a1;
+    font-size: 11px;
+    line-height: 18px;
+    position: absolute;
+    font-family: "Manrope-Regular", Helvetica;
+    font-weight: 400;
+    letter-spacing: 0;
+    white-space: nowrap;
+  }
+  
+  .landing-page .logo-youtube {
+    position: absolute;
+    width: 24px;
+    height: 24px;
+    top: 310px;
+    left: 1284px;
+  }
+  
+  .landing-page .logo-linkedin-5 {
+    top: 310px;
+    left: 1244px;
+    position: absolute;
+    width: 24px;
+    height: 24px;
+  }
+  
+  .landing-page .textbox-2 {
+    width: 271px;
+    top: 161px;
+    left: 923px;
+    border-radius: 4px 0px 0px 4px;
+    border-color: #6d31ed;
+    position: absolute;
+    height: 37px;
+    border: 1px solid;
+  }
+  
+  .landing-page .text-wrapper-47 {
+    position: absolute;
+    top: 6px;
+    left: 34px;
+    font-family: "Manrope-Regular", Helvetica;
+    font-weight: 400;
+    color: #424856;
+    font-size: 14px;
+    letter-spacing: 0;
+    line-height: 22px;
+    white-space: nowrap;
+  }
+  
+  .landing-page .mail {
+    position: absolute;
+    width: 16px;
+    height: 16px;
+    top: 10px;
+    left: 12px;
+  }
+  
+  .landing-page .text-wrapper-48 {
+    position: absolute;
+    width: 384px;
+    top: 95px;
+    left: 924px;
+    font-family: "Lexend-Regular", Helvetica;
+    font-weight: 400;
+    color: #15abff;
+    font-size: 20px;
+    letter-spacing: 0;
+    line-height: 30px;
+  }
+  
+  .landing-page .text-wrapper-49 {
+    position: absolute;
+    width: 384px;
+    top: 125px;
+    left: 924px;
+    font-family: "Manrope-Regular", Helvetica;
+    font-weight: 400;
+    color: #dee1e6;
+    font-size: 12px;
+    letter-spacing: 0;
+    line-height: 20px;
+  }
+  
+  .landing-page .button-11 {
+    all: unset;
+    box-sizing: border-box;
+    position: absolute;
+    width: 114px;
+    height: 36px;
+    top: 162px;
+    left: 1194px;
+    background-color: #6d31ed;
+    border-radius: 0px 4px 4px 0px;
+    overflow: hidden;
+  }
+  
+  .landing-page .text-wrapper-50 {
+    position: absolute;
+    top: 6px;
+    left: 24px;
+    font-family: "Manrope-Regular", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 14px;
+    letter-spacing: 0;
+    line-height: 22px;
+    white-space: nowrap;
+  }
+  
+  .landing-page .scholarship-3 {
+    width: 46px;
+    height: 46px;
+    top: 130px;
+    left: 91px;
+    position: absolute;
+    object-fit: cover;
+  }
+  
+  .landing-page .text-wrapper-51 {
+    position: absolute;
+    top: 100px;
+    left: 153px;
+    font-family: "Lobster-Regular", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 32px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: 103px;
+    white-space: nowrap;
+  }
